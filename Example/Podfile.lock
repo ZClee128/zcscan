@@ -1,0 +1,16 @@
+PODS:
+  - zcscan (0.1.0)
+
+DEPENDENCIES:
+  - zcscan (from `../`)
+
+EXTERNAL SOURCES:
+  zcscan:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  zcscan: 02c9d85ac9b6e0e94ae5d255f1f3679432fa337c
+
+PODFILE CHECKSUM: 61a648656e847682780ea92fe446019e3083bfae
+
+COCOAPODS: 1.15.2

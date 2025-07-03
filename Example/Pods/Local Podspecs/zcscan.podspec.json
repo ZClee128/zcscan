@@ -1,0 +1,22 @@
+{
+  "name": "zcscan",
+  "version": "0.1.0",
+  "summary": "A short description of zcscan.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18162711/zcscan",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18162711": "876231865@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/18162711/zcscan.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "zcscan/Classes/**/*"
+}
