@@ -1,16 +1,25 @@
 PODS:
   - zcscan (0.1.0)
+  - ZLPhotoBrowser (4.6.0.1):
+    - ZLPhotoBrowser/Core (= 4.6.0.1)
+  - ZLPhotoBrowser/Core (4.6.0.1)
 
 DEPENDENCIES:
   - zcscan (from `../`)
+  - ZLPhotoBrowser
+
+SPEC REPOS:
+  trunk:
+    - ZLPhotoBrowser
 
 EXTERNAL SOURCES:
   zcscan:
     :path: "../"
 
 SPEC CHECKSUMS:
-  zcscan: 02c9d85ac9b6e0e94ae5d255f1f3679432fa337c
+  zcscan: 7f77bac9b7ebc5b25b2c2ddb4d29a1a3ca62a0ea
+  ZLPhotoBrowser: 20f32e6429448cc1c008795a1b55472d5772939c
 
-PODFILE CHECKSUM: 61a648656e847682780ea92fe446019e3083bfae
+PODFILE CHECKSUM: d9ac20a11d21ff82076456a4fba538fb29e92e0d
 
 COCOAPODS: 1.15.2

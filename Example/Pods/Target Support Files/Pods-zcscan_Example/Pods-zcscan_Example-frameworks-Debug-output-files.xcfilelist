@@ -1,0 +1,2 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ZLPhotoBrowser.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/zcscan.framework
