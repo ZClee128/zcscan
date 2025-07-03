@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 class QrcodeSelectView: UIView {
     private let bgView = UIView()

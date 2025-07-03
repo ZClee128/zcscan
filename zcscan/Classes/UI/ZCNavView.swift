@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 public class ZCNavView: UIView {
     /// 背景颜色

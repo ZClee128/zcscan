@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension Bundle {
     static var zcscanBundle: Bundle? {

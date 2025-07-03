@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 
 extension UIImage {
     /// 根据界面内容绘制一张图片

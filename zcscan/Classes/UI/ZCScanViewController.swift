@@ -10,6 +10,7 @@ import Foundation
 import AVFoundation
 import Photos
 import AudioToolbox
+import UIKit
 
 public enum SearchViewType: Equatable {
     /// 普通
